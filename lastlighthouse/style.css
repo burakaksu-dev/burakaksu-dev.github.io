@@ -1,0 +1,8 @@
+body{margin:0;background:#03070d;color:#f1e9da;font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+main{max-width:680px;margin:0 auto;padding:48px 22px 80px}
+h1{font-size:28px;margin:0 0 6px;letter-spacing:.5px}
+.sub{color:#ffc978;letter-spacing:4px;font-size:12px;font-weight:700;text-transform:uppercase}
+h2{font-size:18px;margin:32px 0 6px;color:#ffc978}
+a{color:#ffc978}
+p,li{color:rgba(241,233,218,.82)}
+.muted{color:rgba(241,233,218,.5);font-size:13px}
